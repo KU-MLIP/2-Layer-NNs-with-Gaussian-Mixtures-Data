@@ -2,6 +2,7 @@
 Code for the ICLR 2025 paper called "Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure"
 
 ## [Paper Link](https://openreview.net/forum?id=tNn6Hskmti)
+## Authors: Samet Demir, Zafer Dogan
 
 # Citation
 ```
