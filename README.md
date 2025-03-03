@@ -2,7 +2,7 @@
 Code for the ICLR 2025 paper called "Asymptotic Analysis of Two-Layer Neural Networks after One Gradient Step under Gaussian Mixtures Data with Structure"
 
 ### [Paper Link](https://openreview.net/forum?id=tNn6Hskmti)
-### - Samet Demir, Zafer Dogan
+### Samet Demir, Zafer Dogan
 
 ## Running the Code
 - The code is written with Python 3 inside Jupyter Notebook (.ipynb) files. Each file corresponds to experiments/simulations for one of the figures (names of the files are self-explanatory). So, each figure can be reproduced by running the code inside the corresponding Jupyter Notebook (.ipynb).
